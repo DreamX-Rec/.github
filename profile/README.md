@@ -13,8 +13,8 @@
 - **Towards Full Candidate Interaction: A Comprehensive Comparison Network for Better Route Recommendation**<br>
   *RecSys 2026*
 
-- **[IntSR: An Integrated Generative Framework for Search and Recommendation](https://scholar.google.com.hk/scholar?cluster=9297316802523509465&hl=zh-CN&as_sdt=2005&sciodt=0,5)**<br>
+- **IntSR: An Integrated Generative Framework for Search and Recommendation**<br>
   *CIKM 2026*
 
-- **[GenMRP: A Generative Multi-Route Planning Framework for Efficient and Personalized Real-Time Industrial Navigation](https://arxiv.org/abs/2602.04174)**<br>
+- **GenMRP: A Generative Multi-Route Planning Framework for Efficient and Personalized Real-Time Industrial Navigation**<br>
   *CIKM 2026*
