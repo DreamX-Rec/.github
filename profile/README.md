@@ -17,13 +17,13 @@
 
 ### Preprints
 
+- **SCASRec: A Self-Correcting and Auto-Stopping Model for Generative Route List Recommendation**<br>
+  *arXiv*
+
 - **TransitLM: A Large-Scale Dataset and Benchmark for Map-Free Transit Route Generation**<br>
   *arXiv*
 
 - **IntTravel: A Real-World Dataset and Generative Framework for Integrated Multi-Task Travel Recommendation**<br>
-  *arXiv*
-
-- **SCASRec: A Self-Correcting and Auto-Stopping Model for Generative Route List Recommendation**<br>
   *arXiv*
 
 - **IntHQ: Task-Interactive Hierarchical Query on Dual-Stream Representations for Generative Recommendation**<br>
