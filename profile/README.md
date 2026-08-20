@@ -1,7 +1,3 @@
-## Our repositories
-
-👉 [View all repositories](https://github.com/orgs/DreamX-Rec/repositories)
-
 ## Publications
 
 - **DSFNet: Learning Disentangled Scenario Factorization for Multi-Scenario Route Ranking**<br>
