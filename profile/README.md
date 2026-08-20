@@ -1,3 +1,10 @@
+## Repositories
+
+- **[TransitLM](https://github.com/HotTricker/TransitLM)**
+- **[IntTravel](https://github.com/DreamX-Rec/IntTravel)**
+- **[DSFNet](https://github.com/DreamX-Rec/DSFNet)**
+- **[IntRR](https://github.com/DreamX-Rec/IntRR)**
+
 ## Publications
 
 - **DSFNet: Learning Disentangled Scenario Factorization for Multi-Scenario Route Ranking**<br>
