@@ -10,10 +10,10 @@
   *RecSys 2026 Oral*
 
 - **IntSR: An Integrated Generative Framework for Search and Recommendation**<br>
-  *CIKM 2026*
+  *CIKM 2026 Full Presentation*
 
 - **GenMRP: A Generative Multi-Route Planning Framework for Efficient and Personalized Real-Time Industrial Navigation**<br>
-  *CIKM 2026*
+  *CIKM 2026 Full Presentation*
 
 ### Preprints
 
