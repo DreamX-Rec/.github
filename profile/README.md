@@ -7,7 +7,7 @@
   *KDD 2026 Oral*
 
 - **Towards Full Candidate Interaction: A Comprehensive Comparison Network for Better Route Recommendation**<br>
-  *RecSys 2026*
+  *RecSys 2026 Oral*
 
 - **IntSR: An Integrated Generative Framework for Search and Recommendation**<br>
   *CIKM 2026*
