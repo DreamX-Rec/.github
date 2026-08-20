@@ -20,6 +20,9 @@
 - **SCASRec: A Self-Correcting and Auto-Stopping Model for Generative Route List Recommendation**<br>
   *arXiv*
 
+- **IntRR: A Framework for Integrating SID Redistribution and Length Reduction**<br>
+  *arXiv*
+
 - **TransitLM: A Large-Scale Dataset and Benchmark for Map-Free Transit Route Generation**<br>
   *arXiv*
 
