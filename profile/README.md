@@ -32,7 +32,7 @@
 - **IntHQ: Task-Interactive Hierarchical Query on Dual-Stream Representations for Generative Recommendation**<br>
   *arXiv*
 
-- **[IntBMoE: Integrating Block-Level Conditioning into Expert Composition for Full-Participation Mixture-of-Experts](https://arxiv.org/abs/2609.21346)**<br>
+- **IntBMoE: Integrating Block-Level Conditioning into Expert Composition for Full-Participation Mixture-of-Experts**<br>
   *arXiv*
 
 ## Repositories
