@@ -32,8 +32,12 @@
 - **IntHQ: Task-Interactive Hierarchical Query on Dual-Stream Representations for Generative Recommendation**<br>
   *arXiv*
 
+- **[IntBMoE: Integrating Block-Level Conditioning into Expert Composition for Full-Participation Mixture-of-Experts](https://arxiv.org/abs/2609.21346)**<br>
+  *arXiv*
+
 ## Repositories
 
+- **[DreamX-Rec](https://github.com/AMAP-ML/DreamX-Rec)**
 - **[IntTravel](https://github.com/DreamX-Rec/IntTravel)**
 - **[IntRR](https://github.com/DreamX-Rec/IntRR)**
 - **[TransitLM](https://github.com/HotTricker/TransitLM)**
