@@ -38,7 +38,4 @@
 ## Repositories
 
 - **[DreamX-Rec](https://github.com/AMAP-ML/DreamX-Rec)**
-- **[IntTravel](https://github.com/DreamX-Rec/IntTravel)**
-- **[IntRR](https://github.com/DreamX-Rec/IntRR)**
 - **[TransitLM](https://github.com/HotTricker/TransitLM)**
-- **[DSFNet](https://github.com/DreamX-Rec/DSFNet)**
