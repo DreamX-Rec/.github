@@ -15,15 +15,15 @@
 - **GenMRP: A Generative Multi-Route Planning Framework for Efficient and Personalized Real-Time Industrial Navigation**<br>
   *CIKM 2026 Full Presentation*
 
+- **TransitLM: A Large-Scale Dataset and Benchmark for Map-Free Transit Route Generation**<br>
+  *NIPS 2026*
+
 ### Preprints
 
 - **SCASRec: A Self-Correcting and Auto-Stopping Model for Generative Route List Recommendation**<br>
   *arXiv*
 
 - **IntRR: A Framework for Integrating SID Redistribution and Length Reduction**<br>
-  *arXiv*
-
-- **TransitLM: A Large-Scale Dataset and Benchmark for Map-Free Transit Route Generation**<br>
   *arXiv*
 
 - **IntTravel: A Real-World Dataset and Generative Framework for Integrated Multi-Task Travel Recommendation**<br>
